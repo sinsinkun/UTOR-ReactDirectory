@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/UTOR-ReactDirectory/static/css/main.dbfaf18a.chunk.css",
-    "main.js": "/UTOR-ReactDirectory/static/js/main.25dc800f.chunk.js",
-    "main.js.map": "/UTOR-ReactDirectory/static/js/main.25dc800f.chunk.js.map",
+    "main.js": "/UTOR-ReactDirectory/static/js/main.5e141cb4.chunk.js",
+    "main.js.map": "/UTOR-ReactDirectory/static/js/main.5e141cb4.chunk.js.map",
     "runtime-main.js": "/UTOR-ReactDirectory/static/js/runtime-main.31768d6a.js",
     "runtime-main.js.map": "/UTOR-ReactDirectory/static/js/runtime-main.31768d6a.js.map",
     "static/js/2.9485115c.chunk.js": "/UTOR-ReactDirectory/static/js/2.9485115c.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.31768d6a.js",
     "static/js/2.9485115c.chunk.js",
     "static/css/main.dbfaf18a.chunk.css",
-    "static/js/main.25dc800f.chunk.js"
+    "static/js/main.5e141cb4.chunk.js"
   ]
 }
