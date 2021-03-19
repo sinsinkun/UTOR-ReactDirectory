@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/style.css"],"names":[],"mappings":"AAAA,aACE,cACF,CAEA,yBACE,aACE,aACF,CACF","file":"main.dbfaf18a.chunk.css","sourcesContent":[".search-form {\r\n  margin: 0 10rem\r\n}\r\n\r\n@media (max-width:992px) {\r\n  .search-form {\r\n    margin: 0 2rem\r\n  }\r\n}"]}
