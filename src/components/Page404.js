@@ -1,4 +1,4 @@
-function Homepage() {
+function Page404() {
   return(
     <div className="text-center" style={{marginTop:"8rem"}}>
       <h2>404 ERROR</h2>
@@ -8,4 +8,4 @@ function Homepage() {
   )
 }
 
-export default Homepage;
+export default Page404;
