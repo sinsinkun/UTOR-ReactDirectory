@@ -1,11 +1,24 @@
+[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
+
 # Unit 19 React Homework: Employee Directory
 
-## Overview
+## Description
+This is an app that can be used to search for a number of randomly generated user information cards, as well as apply some basic filters on them.
 
-For this assignment, you'll create a employee directory with React. This assignment will require you to break up your application's UI into components, manage component state, and respond to user events.
+This app is deployed on github pages at [https://sinsinkun.github.io/UTOR-ReactDirectory/](https://sinsinkun.github.io/UTOR-ReactDirectory/).
 
-## Submission on BCS
+## Table of Contents
+* [Usage](#usage)
+* [License](#license)
 
-You are required to submit the following:
-* the URL to the deployed application
-* the URL to the Github repository
+## Usage
+Enter any integer number into the search bar and hit search to initiate a new search. Check the sort by and display checkboxes to sort and filter the information as you see fit.
+
+![Screenshot](./public/screenshot.png)
+
+## License
+ISC License: Copyright (C) 2021 JingChang Xiao 
+
+Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies. 
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
