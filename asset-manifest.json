@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.dbfaf18a.chunk.css",
-    "main.js": "/static/js/main.67b3b132.chunk.js",
-    "main.js.map": "/static/js/main.67b3b132.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.5d86c339.js",
-    "runtime-main.js.map": "/static/js/runtime-main.5d86c339.js.map",
-    "static/js/2.9485115c.chunk.js": "/static/js/2.9485115c.chunk.js",
-    "static/js/2.9485115c.chunk.js.map": "/static/js/2.9485115c.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.dbfaf18a.chunk.css.map": "/static/css/main.dbfaf18a.chunk.css.map",
-    "static/js/2.9485115c.chunk.js.LICENSE.txt": "/static/js/2.9485115c.chunk.js.LICENSE.txt"
+    "main.css": "/UTOR-ReactDirectory/static/css/main.dbfaf18a.chunk.css",
+    "main.js": "/UTOR-ReactDirectory/static/js/main.67b3b132.chunk.js",
+    "main.js.map": "/UTOR-ReactDirectory/static/js/main.67b3b132.chunk.js.map",
+    "runtime-main.js": "/UTOR-ReactDirectory/static/js/runtime-main.31768d6a.js",
+    "runtime-main.js.map": "/UTOR-ReactDirectory/static/js/runtime-main.31768d6a.js.map",
+    "static/js/2.9485115c.chunk.js": "/UTOR-ReactDirectory/static/js/2.9485115c.chunk.js",
+    "static/js/2.9485115c.chunk.js.map": "/UTOR-ReactDirectory/static/js/2.9485115c.chunk.js.map",
+    "index.html": "/UTOR-ReactDirectory/index.html",
+    "static/css/main.dbfaf18a.chunk.css.map": "/UTOR-ReactDirectory/static/css/main.dbfaf18a.chunk.css.map",
+    "static/js/2.9485115c.chunk.js.LICENSE.txt": "/UTOR-ReactDirectory/static/js/2.9485115c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5d86c339.js",
+    "static/js/runtime-main.31768d6a.js",
     "static/js/2.9485115c.chunk.js",
     "static/css/main.dbfaf18a.chunk.css",
     "static/js/main.67b3b132.chunk.js"
